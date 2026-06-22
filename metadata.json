@@ -1,0 +1,8 @@
+{
+  "name": "Batucadan OS",
+  "description": "Painel operacional e financeiro interno para gestão da Batucadan Produções LTDA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
